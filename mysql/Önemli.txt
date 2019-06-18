@@ -1,0 +1,4 @@
+sql dosyalarý game adlý bir schema ya import edilmelidir.
+Ayrýca baðlantý adresleri utilities classýnýn içinde
+bulunmaktadýr. Düzenlenme orda yapýldýgýnda proje problemsiz
+çalýþmaktadýr.
